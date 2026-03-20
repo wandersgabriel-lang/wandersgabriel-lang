@@ -1,48 +1,59 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Bem-vindos+ao+meu+universo;Engenharia+de+Software;Cloud+Architecture+|+Inova%C3%A7%C3%A3o" alt="Typing SVG AWS Theme" />
-</div>
+# Wanderson Gabriel
 
----
+Desenvolvedor full stack em formaÃ§Ã£o, com foco em JavaScript, interfaces responsivas e aplicaÃ§Ãµes web com regras de negÃ³cio reais. Estou construindo projetos prÃ¡ticos com atenÃ§Ã£o a organizaÃ§Ã£o, experiÃªncia do usuÃ¡rio e evoluÃ§Ã£o contÃ­nua para conquistar minha primeira oportunidade como desenvolvedor jÃºnior.
 
-<h2 align="center"> ⚡ Sobre mim </h2>
+## Tecnologias
 
-Sou o **Wanderson Gabriel**, e transformo ideias complexas em soluções digitais confiáveis e inovadoras. Minha paixão é arquitetar sistemas escaláveis e eficientes, sempre buscando a excelência na engenharia de software e construindo aplicações de alto desempenho.
+- JavaScript
+- HTML
+- CSS
+- Git e GitHub
+- LÃ³gica de programaÃ§Ã£o
+- Desenvolvimento web responsivo
 
-<br>
+## Objetivo Profissional
 
-<h2 align="center"> 🚀 Minhas Tecnologias & Ferramentas </h2>
+Busco uma oportunidade como desenvolvedor jÃºnior para atuar no desenvolvimento de aplicaÃ§Ãµes web, fortalecer minhas bases em frontend e backend e evoluir com projetos reais, boas prÃ¡ticas e trabalho em equipe.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=javascript&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/HTML5-232F3E?style=for-the-badge&logo=html5&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/CSS3-232F3E?style=for-the-badge&logo=css3&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-</div>
+## Projetos em Destaque
 
-<br>
+### Inventory Management System
 
-<h2 align="center"> 📈 Analytics </h2>
+Sistema web para controle de estoque, vendas, usuÃ¡rios e permissÃµes, com foco em simular um ambiente de gestÃ£o empresarial.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wandersgabriel-lang&show_icons=true&hide_border=true&bg_color=232F3E&icon_color=FF9900&title_color=FF9900&text_color=ffffff" alt="Wanderson's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersgabriel-lang&layout=compact&hide_border=true&bg_color=232F3E&title_color=FF9900&text_color=ffffff" alt="Top Languages"/>
-</div>
+**Principais pontos:**
 
-<br>
+- Cadastro de produtos
+- Registro de vendas
+- Controle de estoque
+- GestÃ£o de usuÃ¡rios
+- Controle de permissÃµes
 
----
+**RepositÃ³rio:** [inventory-management-system](https://github.com/wandersgabriel-lang/Sistema-Para-Empresa)
 
-<h2 align="center"> 📡 Conecte-se Comigo </h2>
+### BMI Calculator
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/wandersgab"><img src="https://img.shields.io/badge/LinkedIn-232F3E?style=for-the-badge&logo=linkedin&logoColor=FF9900" /></a>
-  <a href="mailto:wandersgabriel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-232F3E?style=for-the-badge&logo=gmail&logoColor=FF9900" /></a>
-  <a href="https://wa.me/5571992797324"><img src="https://img.shields.io/badge/WhatsApp-+55(71)992797324-232F3E?style=for-the-badge&logo=whatsapp&logoColor=FF9900" /></a>
-</div>
+AplicaÃ§Ã£o web para cÃ¡lculo de IMC com validaÃ§Ã£o de dados, classificaÃ§Ã£o do resultado e feedback visual ao usuÃ¡rio.
 
-<br>
+**Principais pontos:**
 
-<div align="center">
-  <em>“Construindo o amanhã de forma resiliente e escalável.”</em>
-</div>
+- CÃ¡lculo automÃ¡tico de IMC
+- ValidaÃ§Ã£o de formulÃ¡rio
+- ClassificaÃ§Ã£o por faixa
+- Interface responsiva
+
+**RepositÃ³rio:** [bmi-calculator](https://github.com/wandersgabriel-lang/projeto-imc)
+
+## O que vocÃª vai encontrar no meu GitHub
+
+- Projetos com documentaÃ§Ã£o clara
+- AplicaÃ§Ãµes com deploy online
+- EvoluÃ§Ã£o contÃ­nua dos repositÃ³rios
+- OrganizaÃ§Ã£o voltada para padrÃ£o profissional
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/wandersgab](https://www.linkedin.com/in/wandersgab)
+- Email: [wandersgabriel.dev@gmail.com](mailto:wandersgabriel.dev@gmail.com)
+
+Estou usando o GitHub como vitrine da minha evoluÃ§Ã£o prÃ¡tica em desenvolvimento web, com foco em projetos cada vez mais mais completos, organizados e prÃ³ximos das exigÃªncias do mercado.
