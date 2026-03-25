@@ -1,48 +1,78 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Bem-vindos+ao+meu+universo;Engenharia+de+Software;Cloud+Architecture+|+Inova%C3%A7%C3%A3o" alt="Typing SVG AWS Theme" />
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=%3E_INITIALIZING_SYSTEM...;Bem-vindos+ao+meu+universo+3D;Engenharia+de+Software+|+Cloud;Arquitetando+o+Futuro" alt="Typing SVG" />
+  </a>
 </div>
 
----
-
-<h2 align="center"> ⚡ Sobre mim </h2>
-
-Sou o **Wanderson Gabriel**, e transformo ideias complexas em soluções digitais confiáveis e inovadoras. Minha paixão é arquitetar sistemas escaláveis e eficientes, sempre buscando a excelência na engenharia de software e construindo aplicações de alto desempenho.
-
-<br>
-
-<h2 align="center"> 🚀 Minhas Tecnologias & Ferramentas </h2>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=javascript&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/HTML5-232F3E?style=for-the-badge&logo=html5&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/CSS3-232F3E?style=for-the-badge&logo=css3&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Cyber Banner" />
 </div>
 
-<br>
+<br/>
 
-<h2 align="center"> 📈 Analytics </h2>
+<table align="center" style="border: none; margin: 0 auto; text-align: center;">
+  <tr>
+    <td width="60%" align="left">
+      <h2 style="color: #00F0FF;"> 🌐 [IDENTITY: WANDERSON GABRIEL] </h2>
+      <h3 style="color: #BD00FF;"> 🎮 [ALIAS: Jokerskillsp23] </h3>
+      <p>
+        <strong>&#10148; Class:</strong> Engenheiro de Software <br/>
+        <strong>&#10148; Mission:</strong> Transformar ideias complexas em soluções digitais inovadoras, operacionais e altamente escaláveis.<br/><br/>
+        Minha paixão é arquitetar sistemas eficientes e de alto retorno. Eu respiro tecnologia, focando na excelência da engenharia de software para construir o amanhã de forma resiliente com uma <em>arquitetura futurista 3D</em>.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <!-- 3D Tech Cube or Globe -->
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" alt="3D Hologram Cube"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center" style="color: #00F0FF;"> 🛠️ ARSENAL TECNOLÓGICO </h2>
+<p align="center">Equipado para o desenvolvimento de altíssima performance</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wandersgabriel-lang&show_icons=true&hide_border=true&bg_color=232F3E&icon_color=FF9900&title_color=FF9900&text_color=ffffff" alt="Wanderson's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersgabriel-lang&layout=compact&hide_border=true&bg_color=232F3E&title_color=FF9900&text_color=ffffff" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F0FF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F0FF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F0FF" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00F0FF" alt="AWS" />
 </div>
 
-<br>
+<br/>
 
----
-
-<h2 align="center"> 📡 Conecte-se Comigo </h2>
+<h2 align="center" style="color: #00F0FF;"> 📊 TELEMETRIA GITHUB </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wandersgab"><img src="https://img.shields.io/badge/LinkedIn-232F3E?style=for-the-badge&logo=linkedin&logoColor=FF9900" /></a>
-  <a href="mailto:wandersgabriel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-232F3E?style=for-the-badge&logo=gmail&logoColor=FF9900" /></a>
-  <a href="https://wa.me/5571992797324"><img src="https://img.shields.io/badge/WhatsApp-+55(71)992797324-232F3E?style=for-the-badge&logo=whatsapp&logoColor=FF9900" /></a>
+  <a href="https://github.com/wandersgabriel-lang">
+    <img src="https://github-readme-stats.vercel.app/api?username=wandersgabriel-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F0FF&title_color=00F0FF&text_color=A3B8CC" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/wandersgabriel-lang">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersgabriel-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=A3B8CC" width="48%" alt="Top Languages" />
+  </a>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <em>“Construindo o amanhã de forma resiliente e escalável.”</em>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Cyber Banner Down" />
+</div>
+
+<br/>
+
+<h2 align="center" style="color: #00F0FF;"> 📡 ESTABELECER CONEXÃO </h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wandersgab"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF003C" alt="LinkedIn" /></a>
+  <a href="mailto:wandersgabriel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF003C" alt="Email" /></a>
+  <a href="https://wa.me/5571992797324"><img src="https://img.shields.io/badge/WhatsApp-+55_71_992797324-0D1117?style=for-the-badge&logo=whatsapp&logoColor=FF003C" alt="WhatsApp" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><i>>_ Session closed. Awaiting input... </i><span style="color:#00F0FF;">█</span></p>
 </div>
