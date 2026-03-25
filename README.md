@@ -15,11 +15,10 @@
   <tr>
     <td width="60%" align="left">
       <h2 style="color: #00F0FF;"> 🌐 [IDENTITY: WANDERSON GABRIEL] </h2>
-      <h3 style="color: #BD00FF;"> 🎮 [ALIAS: Jokerskillsp23] </h3>
       <p>
         <strong>&#10148; Class:</strong> Engenheiro de Software <br/>
-        <strong>&#10148; Mission:</strong> Transformar ideias complexas em soluções digitais inovadoras, operacionais e altamente escaláveis.<br/><br/>
-        Minha paixão é arquitetar sistemas eficientes e de alto retorno. Eu respiro tecnologia, focando na excelência da engenharia de software para construir o amanhã de forma resiliente com uma <em>arquitetura futurista 3D</em>.
+        <strong>&#10148; Mission:</strong> Desenvolver arquiteturas de software consistentes, priorizando a escalabilidade e a excelência operacional.<br/><br/>
+        Com sólida experiência em tecnologia, especializo-me na construção de sistemas robustos e eficientes. Meu foco é aplicar rigorosas práticas da engenharia de software para entregar soluções digitais inovadoras, resilientes e orientadas a resultados concretos.
       </p>
     </td>
     <td width="40%" align="center">
